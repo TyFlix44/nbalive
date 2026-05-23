@@ -1,7 +1,7 @@
-{
-  "nba": {
-    "title": "NBA League Pass",
-    "stream_url": "https://v4.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=6oKylFjSRuWlHajHfYHplg&expires=1779514354&user_id=Q29Rc1k0MUFHUTVnbUlxRmdmNE1KTlNjRjkxVWZGNndDMUwzYXBsTA==",
+[
+  {
+    "name": "NBA League Pass",
+    "url": "https://v4.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=6oKylFjSRuWlHajHfYHplg&expires=1779514354&user_id=Q29Rc1k0MUFHUTVnbUlxRmdmNE1KTlNjRjkxVWZGNndDMUwzYXBsTA==",
     "logo": "https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
   }
-}
+]
